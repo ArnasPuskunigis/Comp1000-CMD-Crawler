@@ -22,9 +22,9 @@ It is a command line dungeon crawler where the player has to navigate the map in
 * replay - Restarts the game.
 
 # How to execute/launch the game
-Download the "CMD-CrawlerLauncher.zip" folder.
-Extract the folder.
-Run "CMD-Crawler.exe" to play the game.
+* Download the "CMD-CrawlerLauncher.zip" folder.
+* Extract the folder.
+* Run "CMD-Crawler.exe" to play the game.
 
 # What the game looks like right now
 
